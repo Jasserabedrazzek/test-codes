@@ -1,3 +1,4 @@
+import streamlit as st
 from numpy import array
 from random import *
 
